@@ -1,1 +1,2 @@
-My task 0 done
+#!/bin/bash
+Task 0, where am I
